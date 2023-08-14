@@ -12,7 +12,7 @@ disqusShortname = "yourDisqusShortname"
 paginate=9 # articles per page
 
 [params]
-	favicon = "https://raw.githubusercontent.com/qinjo/pic-private/main/picgo_pic/logo-1-tr.ico"
+	favicon = "https://github.com/qinjo/pic-private/blob/main/picgo_pic/logo.png?raw=true"
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "我的精简博客 -- [Chinjo.Hugo](https://github.com/qinjo/Chinjo.Hugo)"
