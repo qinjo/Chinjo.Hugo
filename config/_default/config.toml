@@ -2,6 +2,7 @@ baseURL = "https://qinjo.github.io/Chinjo.Hugo/"
 languageCode = "en-us"
 title = "Chinjo"
 theme = "paper"
+
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -11,11 +12,11 @@ disqusShortname = "yourDisqusShortname"
 
 [params]
   # color style
-  color = 'linen'                           # linen, wheat, gray, light
+  color = 'gray'                           # linen, wheat, gray, light
 
   # header social icons
-  twitter = 'twitter.com/jodududu'               # twitter.com/YOUR_TWITTER_ID
-  github = 'github.com/qinjo'                 # github.com/YOUR_GITHUB_ID
+  twitter = 'jodududu'               # twitter.com/YOUR_TWITTER_ID
+  github = 'qinjo'                 # github.com/YOUR_GITHUB_ID
   rss = true                                # show rss icon
 
   # home page profile
@@ -27,7 +28,7 @@ disqusShortname = "yourDisqusShortname"
 
 [[menu.main]]
 name = "Home"
-url = "https://qinjo.github.io/Chinjo.Hugo/"
+url = "https://qinjo.github.io/Chinjo.Hugo"
 weight = 1
 
 [[menu.main]]
