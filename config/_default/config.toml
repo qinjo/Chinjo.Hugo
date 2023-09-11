@@ -25,3 +25,15 @@ disqusShortname = "yourDisqusShortname"
   avatar = 'aqqopvincent@gmail.com'                 # gravatar email or image url
   name = 'chin'
   bio = 'jo'
+
+  # Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
