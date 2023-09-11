@@ -14,8 +14,8 @@ disqusShortname = "yourDisqusShortname"
   color = 'linen'                           # linen, wheat, gray, light
 
   # header social icons
-  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-  github = 'https://github.com/qinjo'                 # github.com/YOUR_GITHUB_ID
+  twitter = 'twitter.com/jodududu'               # twitter.com/YOUR_TWITTER_ID
+  github = 'github.com/qinjo'                 # github.com/YOUR_GITHUB_ID
   rss = true                                # show rss icon
 
   # home page profile
