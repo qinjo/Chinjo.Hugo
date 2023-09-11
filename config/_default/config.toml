@@ -16,9 +16,6 @@ disqusShortname = "yourDisqusShortname"
   # header social icons
   twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
   github = 'https://github.com/qinjo'                 # github.com/YOUR_GITHUB_ID
-  instagram = 'https://github.com/qinjo'           # instagram.com/YOUR_INSTAGRAM_ID
-  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
   rss = true                                # show rss icon
 
   # home page profile
@@ -30,10 +27,10 @@ disqusShortname = "yourDisqusShortname"
 
 [[menu.main]]
 name = "Home"
-url = "/"
+url = "https://qinjo.github.io/Chinjo.Hugo/"
 weight = 1
 
 [[menu.main]]
 name = "All posts"
-url = "/posts"
+url = "https://qinjo.github.io/Chinjo.Hugo/posts"
 weight = 2
