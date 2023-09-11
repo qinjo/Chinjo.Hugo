@@ -12,7 +12,7 @@ disqusShortname = "yourDisqusShortname"
 
 [params]
   # color style
-  color = 'gray'                           # linen, wheat, gray, light
+  color = 'light'                           # linen, wheat, gray, light
 
   # header social icons
   twitter = 'jodududu'               # twitter.com/YOUR_TWITTER_ID
